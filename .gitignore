@@ -1,0 +1,18 @@
+# Compilación de C++ (ejecutables y temporales)
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos de entorno y temporales de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuración de editores e IDEs (VS Code, etc.)
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
